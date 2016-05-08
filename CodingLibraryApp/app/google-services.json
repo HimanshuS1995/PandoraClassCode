@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985906740213",
+    "project_id": "codinglibraryapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985906740213:android:30636bc5093bef47",
+        "android_client_info": {
+          "package_name": "com.example.chhavi.codinglibraryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985906740213-9g8okhnu6b6rg9c8d1emojsdab4mpc0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chhavi.codinglibraryapp",
+            "certificate_hash": "04A5E0193DA7797FE5072E5A00D30AABA82325D2"
+          }
+        },
+        {
+          "client_id": "985906740213-tr6mge1min23b0uq8asa60s5kgoferpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYousBqZgM7poaq7gkQvAGVZRGWfFCApI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
